@@ -1,1 +1,1 @@
-# looker_hackthon
+# Looker Hackthon
